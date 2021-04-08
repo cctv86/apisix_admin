@@ -2,7 +2,7 @@ requests
 ldap
 djangorestframework-jwt
 asgiref==3.2.3
-Django==3.0
+Django==3.0.14
 django-auth-ldap==2.1.0
 django-cors-headers==3.2.1
 django-filter==2.2.0
